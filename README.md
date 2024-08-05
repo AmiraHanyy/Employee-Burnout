@@ -1,11 +1,12 @@
 # Employee-Burnout
--Overview:
+# Excel Project
+# Overview:
 
 
 The Employee Burnout Dashboard is designed to provide insights into employee burnout metrics across different company types and demographics. This dashboard uses various Excel tools to analyze and visualize data related to employee resource allocation, burnout rates, and mental fatigue scores.
 
 
--Key Features:
+# Key Features:
 
 
 •	Total Employees Overview: Displays the total number of employees, segregated by gender.
@@ -23,13 +24,13 @@ The Employee Burnout Dashboard is designed to provide insights into employee bur
 •	Mental Fatigue Score Analysis: Line graph and bar charts displaying the average mental fatigue score over time, by gender, and by WFH setup.
 
 
--Data Segmentation:
+# Data Segmentation:
 
 •	Filters: The dashboard includes filters for Company Type, Month, and Gender to allow for dynamic data segmentation and analysis.
 
 •	Date of Joining: Provides insights into the average mental fatigue score based on the date of joining.
 
--Excel Tools Used:
+# Excel Tools Used:
 
 •	Pivot Tables: To summarize and analyze data across various dimensions.
 
@@ -39,7 +40,7 @@ The Employee Burnout Dashboard is designed to provide insights into employee bur
 
 •	Conditional Formatting: To highlight key metrics and trends within the data.
 
--Insights:
+# Insights:
 
 •	Resource Allocation: The dashboard shows a higher resource allocation for Service companies compared to Product companies.
 
@@ -49,7 +50,7 @@ The Employee Burnout Dashboard is designed to provide insights into employee bur
 
 •	Burn Rate and Mental Fatigue: The analysis reveals differences in burnout rates and mental fatigue scores between genders and WFH setups, providing valuable insights for HR and management to address employee wellbeing.
 
--Conclusion:
+# Conclusion:
 
 The Employee Burnout Dashboard is a comprehensive tool that utilizes Excel's powerful data analysis and visualization capabilities to provide actionable insights into employee burnout metrics. This project serves as a valuable resource for organizations to monitor and manage employee wellbeing effectively.
 
